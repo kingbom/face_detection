@@ -1,14 +1,17 @@
 # face_detection
 OpenCV
 
-Step 1
-mkdir dataset
+Setp 1
+pip install opencv-python
 
 Step 2
-python data_gatering.py
+mkdir dataset
 
 Step 3
-python trainer.py
+python data_gatering.py
 
 Step 4
+python trainer.py
+
+Step 5
 python recognizer.py
